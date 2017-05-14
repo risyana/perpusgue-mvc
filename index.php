@@ -23,6 +23,9 @@
 			c_book::cViewAllBooks();
 
 			?>
+
+
 		</div>
+
 	</body>
 </html>

@@ -6,7 +6,7 @@ include("view/v_book.php");
 class c_book{
 
 	function cViewAllBooks(){
-		$result = m_book::getAllBook();
+		$result = m_book::getAllBook();		
 		v_book::viewAllBooks($result);
 	}
 
